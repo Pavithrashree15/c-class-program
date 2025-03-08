@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1741404820 source:d:\4vv23ec410\prog4\main.c
+	<stdio.h>
+
+1741407118 source:d:\4vv23ec410\prog4\update.c
+	<stdio.h>
+
+1741407721 source:d:\4vv23ec410\prog4\append.c
+	<stdio.h>
+
